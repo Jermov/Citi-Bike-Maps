@@ -161,6 +161,6 @@ function updateLegend(time, stationCount) {
     "<p class='coming-soon'>Stations Coming Soon: " + stationCount.COMING_SOON + "</p>",
     "<p class='empty'>Empty Stations: " + stationCount.EMPTY + "</p>",
     "<p class='low'>Low Stations: " + stationCount.LOW + "</p>",
-    "<p class='healthy'>Healthy Stations: " + stationCount.NORMAL + "</p>o"
+    "<p class='healthy'>Healthy Stations: " + stationCount.NORMAL + "</p>"
   ].join("");
 };
